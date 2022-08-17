@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "ikaws",
+  "info": {
+    "singularName": "ikaw",
+    "pluralName": "ikaws",
+    "displayName": "ikaw"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "sampl": {
+      "type": "string"
+    }
+  }
+}
